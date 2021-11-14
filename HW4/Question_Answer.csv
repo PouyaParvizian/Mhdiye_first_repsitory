@@ -1,0 +1,16 @@
+type Question,Questions,choice _Answer,Answer_corect
+TrueFalse,Does the snake have armpits?  yes or no ?,"Why not? If you look more closely, you will find :)",yes
+TrueFalse,Is it dark at night?yes or no,No Because you have lamp,no
+TrueFalse,Is yogurt white? yes or no ?,Nooooooo?!!!!!! ,yes
+TrueFalse,(x == 2) != (x=2). .yes or no ?,Nooooooo?!!!!!! ,yes
+TrueFalse,white moon? .yes or no ?,yes ???!!!! :|,no
+Multiple Choice,What color is a blue car seen under yellow light? 1:Blue 2:Green 3:Yellow 4:White,Blue is Correct,1
+Multiple Choice,In which country is the Eiffel Tower?  1.usa  2.IRIAN  3.France  4.England,search :),3
+Multiple Choice,In which city is Nikbakht University located? 1.Shiraz   2.Ardebil  3.Zahedan  4.Dezfool,search :),3
+Multiple Choice,The sweetest programming language is? 1.Phyton  2.C#   3.java  4.C++,:|  shame on you . Only python :)))),1
+Multiple Choice,Which is faster? 1:motoGP  2:Formola1  3:F-16 4:Weekend , Weekend :(,4
+Short Answer,Why does the penguin not have a knee? :,Because fat :(,Because fat 
+Short Answer,Who wrote the first computer program in history?,Ada Lovelace,Ada Lovelace
+Short Answer,Where was the signing of the Turkmenchay contract?,down the page :))),down the page
+Short Answer,Einstein's Nobel Prize for which the experiment?,Fotoelectric,Fotoelectric
+Short Answer,Electron Detector :,Raderford :),Raderford
