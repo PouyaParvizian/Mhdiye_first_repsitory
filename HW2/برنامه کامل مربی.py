@@ -137,3 +137,4 @@ print(credit_time.use())
 credit_card = CreditCard(price_of_each_trip, 200)
 print(credit_card)
 credit_card.charge(1000)
+#finished
